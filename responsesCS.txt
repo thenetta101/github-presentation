@@ -1,0 +1,12 @@
+Responses:
+    Your name: Cale Sugg
+    
+    Your favorite movie: Easy A
+    
+    Your least favorite holiday: Labor Day
+    
+    If you could do anything in life, what would it be?: Get every degree possible
+    
+    Your favorite joke (we could all use a little help with having a good joke handy now and again): 
+              Why do peppers make bad friends?
+                They are jalepeño business!
